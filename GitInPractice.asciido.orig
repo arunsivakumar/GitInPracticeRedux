@@ -1,0 +1,12 @@
+test message
+hello
+test new
+EXTRA notes
+EXTRA notes2
+<<<<<<< HEAD
+EXTRA notes34
+||||||| merged common ancestors
+EXTRA notes3
+=======
+EXTRA notes33
+>>>>>>> sep-files
